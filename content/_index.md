@@ -21,7 +21,7 @@ sections:
       title: Notice
       subtitle:
       text: |
-        We are seeking talented and passionate students. If you are interested in applying to our research lab, please refer to our hiring page.
+        **Hiring!** I am looking for M.S./Ph.D. students and undergraduate interns who are interested in NLP research. If you are interested, please send your CV to my email (ys.choi@hufs.ac.kr).
 
 
   # - block: collection
