@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Prof. YunSeok Choi
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: YunSeok
+last_name: Choi
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,16 +14,16 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Sungkyunkwan University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am an Assistant Professor in Department of Computer Science Education at Sungkyunkwan University, Seoul, Korea. My Research Interest is in the field of Natural Language Processing, especially about (i) Code Understanding and Generation, (ii) Multimodal Language Understanding, and (iii) Robust Large Language Model.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Multi-modal Learning
+  - Recommendation System
 
 education:
   courses:
