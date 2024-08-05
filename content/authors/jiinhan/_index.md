@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Prof. YunSeok Choi
+title: Jiin Han
 
 # Full Name (for SEO)
-first_name: YunSeok
-last_name: Choi
+first_name: Jiin
+last_name: Han
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,20 +22,20 @@ bio: I am an Assistant Professor in Department of Computer Science Education at 
 
 interests:
   - Natural Language Processing
-  - Multi-modal Learning
-  - Recommendation System
+  - Multimodal Learning
+  - Text-to-SQL Generation
 
 education:
   courses:
-    - course: PhD in Software
-      institution: Sungkyunkwan University
+    - course: Master of Artificial Intelligence Convergence
+      institution: Hankuk University of Foreign Studies
       year: 2024
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
-    - course: BSc in Software
-      institution: Sungkyunkwan University
-      year: 2016
+    - course: BSc of Linguistics & Cognitive Science / BSc of Statistics
+      institution: Hankuk University of Foreign Studies
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -71,7 +71,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Professor
+  - Student
 ---
 
-Dr. YunSeok Choi is an Assistant Professor in the Department of Computer Science Education at Sungkyunkwan University, Seoul. Before joining Sungkyunkwan University in the Fall of 2024, he was an Assistant Professor in the Division of Language & AI at Hankuk University of Foreign Studies, Seoul. He received his Ph.D. degree from Sungkyunkwan University (Advisor: Prof. Jee-Hyong Lee) in 2024 and also did his B.S. degree from Sungkyunkwan University in 2016.
+She is a master student at DLILab. She graduated from the Department of Linguistics & Cognitive Science inHankuk University of Foreign Studies. Her current research topic is text-to-sql generation & multimodal learning.
