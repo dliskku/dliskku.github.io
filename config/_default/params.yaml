@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year}. By Data & Language Intelligence Labotary. Department of Computer Science Education at Sungkyunkwan University. All Rights Reserved'
     license:
       enable: true
       allow_derivatives: false
