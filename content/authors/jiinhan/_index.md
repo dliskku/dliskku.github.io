@@ -1,6 +1,6 @@
 ---
 # Display name
-title: YunSeok Choi
+title: Prof. YunSeok Choi
 
 # Full Name (for SEO)
 first_name: YunSeok

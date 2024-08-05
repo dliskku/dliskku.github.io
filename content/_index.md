@@ -21,7 +21,7 @@ sections:
       title: Notice
       subtitle:
       text: |
-        **Hiring!** I am looking for M.S./Ph.D. students and undergraduate interns who are interested in NLP research. If you are interested, please send your CV to my email (ys.choi@hufs.ac.kr).
+        **Hiring!** We are looking for M.S./Ph.D. students and undergraduate interns who are interested in NLP research. If you are interested, please send your CV to the email (ys.choi@skku.edu).
 
 
   # - block: collection
