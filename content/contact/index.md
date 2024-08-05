@@ -9,20 +9,24 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+        Welcome to the recuriting page for our Data & Language Intelligence research laboratory at Sungkyunkwan University! 
+        
+        Our lab focuses on developing the latest NLP and machine learning technologies and applying them to solve real-world problems. Our major goal is to publish these groundbreaking research results in top-tier conferences and journals worldwide. 
+        
+        To achieve this, we are currently seeking talented and passionate students who meet the following qualifications. If you are interested in joining our research lab, please refer to FAQ page and then send your CV along with a brief introduction to Prof. YunSeok Choi (ys.choi@skku.edu) via email.
       email: ys.choi@skku.edu
       # phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Sungkyunkwan University
+        street: 25-2 Seonggyungwan-ro
+        city: Jongno-gu
         region: Seoul
-        postcode: '94305'
+        postcode: '03063'
         country: Republic of Korea #United States
         country_code: KR
       coordinates:
         latitude: '37.5883'
         longitude: '126.9921'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: 2nd Floor of Hoam Hall
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
