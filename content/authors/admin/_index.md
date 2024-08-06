@@ -17,23 +17,23 @@ organizations:
   - name: Sungkyunkwan University
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: I am an Assistant Professor in Department of Computer Science Education at Sungkyunkwan University, Seoul, Korea. My Research Interest is in the field of Natural Language Processing, especially about (i) Code Understanding and Generation, (ii) Multimodal Language Understanding, and (iii) Robust Large Language Model.
+# # Short bio (displayed in user profile at end of posts)
+# bio: I am an Assistant Professor in Department of Computer Science Education at Sungkyunkwan University, Seoul, Korea. My Research Interest is in the field of Natural Language Processing, especially about (i) Code Understanding and Generation, (ii) Multimodal Language Understanding, and (iii) Robust Large Language Model.
 
 interests:
   - Natural Language Processing
-  - Multi-modal Learning
+  - Multimodal Learning
   - Recommendation System
 
 education:
   courses:
-    - course: PhD in Software
+    - course: Ph.D. Department of Software
       institution: Sungkyunkwan University
       year: 2024
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
-    - course: BSc in Software
+    - course: B.S. Department of Software
       institution: Sungkyunkwan University
       year: 2016
 
@@ -66,7 +66,7 @@ education:
 email: 'ys.choi@skku.edu'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

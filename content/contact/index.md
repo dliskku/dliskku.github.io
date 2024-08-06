@@ -27,9 +27,10 @@ sections:
         latitude: '37.5883'
         longitude: '126.9921'
       directions: 2nd Floor of Hoam Hall
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
+      
       # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
