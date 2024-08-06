@@ -66,12 +66,12 @@ education:
 email: 'gkswldls8671@gmail.com'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Student
+  - Researcher
 ---
 
 She is a master student at DLILab. She graduated from the Department of Linguistics & Cognitive Science inHankuk University of Foreign Studies. Her current research topic is text-to-sql generation & multimodal learning.
