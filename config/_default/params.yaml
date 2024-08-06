@@ -43,14 +43,14 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    notice: '© {year}. By Data & Language Intelligence Labotary. Department of Computer Science Education at Sungkyunkwan University. All Rights Reserved'
-    # license:
-    #   enable: true #true
-    #   allow_derivatives: false
-    #   share_alike: true #true
-    #   allow_commercial: false
+# footer:
+#   copyright:
+#     notice: '© {year}. By Data & Language Intelligence Labotary. Department of Computer Science Education at Sungkyunkwan University. All Rights Reserved'
+#     # license:
+#     #   enable: true #true
+#     #   allow_derivatives: false
+#     #   share_alike: true #true
+#     #   allow_commercial: false
 
 # Localization
 
