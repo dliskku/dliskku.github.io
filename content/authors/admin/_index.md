@@ -10,11 +10,11 @@ last_name: Choi
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: ys.choi@skku.edu #Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Sungkyunkwan University
+  - name: Assistant Professor #Sungkyunkwan University
     url: ''
 
 # # Short bio (displayed in user profile at end of posts)
@@ -23,6 +23,7 @@ organizations:
 interests:
   - Natural Language Processing
   - Multimodal Learning
+  - Generative AI
   - Recommendation System
 
 education:
@@ -73,19 +74,19 @@ highlight_name: false
 user_groups:
   - Professor
 ---
-## Bio
+### Bio
 Dr. YunSeok Choi is an Assistant Professor in the Department of Computer Science Education at Sungkyunkwan University, Seoul. Before joining Sungkyunkwan University in the Fall of 2024, he was an Assistant Professor in the Division of Language & AI at Hankuk University of Foreign Studies, Seoul. He received his Ph.D. degree from Sungkyunkwan University [(Advisor: Prof. Jee-Hyong Lee)](http://iislab.skku.edu/iish/) in 2024 and also did his B.S. degree from Sungkyunkwan University in 2016.
 
-## Teaching
+### Teaching
 
-### 2024 Fall
+**2024 Fall**
 - Natural Language Processing (SKKU)
 - Introduction of Cloud Computing (SKKU)
-### 2024 Spring
+**2024 Spring**
 - Introduction of Artificial Intelligence (HUFS)
 - Language and Database (HUFS)
 - English and Database (HUFS)
-### 2023 Fall
+**2023 Fall**
 - Natural Language Processing (SKKU)
-### 2023 Spring
+**2023 Spring**
 - Natural Language Processing (CNU)
