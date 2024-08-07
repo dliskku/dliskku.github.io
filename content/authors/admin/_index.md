@@ -10,7 +10,7 @@ last_name: Choi
 superuser: true
 
 # Role/position
-role: 'ys.choi@skku.edu' #Assistant Professor
+role: <span>ys.choi@skku.edu</span> #Assistant Professor
 
 # Organizations/Affiliations
 organizations:
