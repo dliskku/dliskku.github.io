@@ -10,32 +10,29 @@ last_name: Han
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: gkswldls8671@gmail.com
 
 # Organizations/Affiliations
 organizations:
-  - name: Sungkyunkwan University
+  - name: M.S. Student
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Assistant Professor in Department of Computer Science Education at Sungkyunkwan University, Seoul, Korea. My Research Interest is in the field of Natural Language Processing, especially about (i) Code Understanding and Generation, (ii) Multimodal Language Understanding, and (iii) Robust Large Language Model.
+# bio: I am an Assistant Professor in Department of Computer Science Education at Sungkyunkwan University, Seoul, Korea. My Research Interest is in the field of Natural Language Processing, especially about (i) Code Understanding and Generation, (ii) Multimodal Language Understanding, and (iii) Robust Large Language Model.
 
 interests:
   - Natural Language Processing
   - Multimodal Learning
   - Text-to-SQL Generation
 
-education:
-  courses:
-    - course: Master of Artificial Intelligence Convergence
-      institution: Hankuk University of Foreign Studies
-      year: 2024
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
-    - course: BSc of Linguistics & Cognitive Science / BSc of Statistics
-      institution: Hankuk University of Foreign Studies
-      year: 2023
+# education:
+#   courses:
+#     - course: Master of Artificial Intelligence Convergence
+#       institution: Hankuk University of Foreign Studies
+#       year: 2024
+#     - course: BSc of Linguistics & Cognitive Science / BSc of Statistics
+#       institution: Hankuk University of Foreign Studies
+#       year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -74,4 +71,4 @@ user_groups:
   - Researcher
 ---
 
-She is a master student at DLILab. She graduated from the Department of Linguistics & Cognitive Science inHankuk University of Foreign Studies. Her current research topic is text-to-sql generation & multimodal learning.
+Jiin Han is a master student at DLILab. She graduated from the Department of Linguistics & Cognitive Science and the Department of Statistic in Hankuk University of Foreign Studies. Her current research topic is text-to-sql generation & multimodal learning.

@@ -10,7 +10,7 @@ last_name: Choi
 superuser: true
 
 # Role/position
-role: <span>ys.choi@skku.edu</span> #Assistant Professor
+role: ys.choi@skku.edu #Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -47,12 +47,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'ys.choi@skku.edu'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/yunseok-choi-96402a200/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=T4GmR6QAAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/yunseok-choi-96402a200/
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
@@ -75,9 +75,9 @@ user_groups:
   - Principal Investigator
 ---
 ### Bio
-Dr. YunSeok Choi is an Assistant Professor in the [Department of Computer Science Education](https://comedu.skku.edu/comedu/index.do) at [Sungkyunkwan University](https://www.skku.edu/skku/index.do), Seoul. Before joining Sungkyunkwan University in the Fall of 2024, he was an Assistant Professor in the Division of Language & AI at Hankuk University of Foreign Studies, Seoul. He received his Ph.D. degree from Sungkyunkwan University [(Advisor: Prof. Jee-Hyong Lee)](http://iislab.skku.edu/iish/) in 2024 and also did his B.S. degree from Sungkyunkwan University in 2016.
+Dr. YunSeok Choi is an Assistant Professor in the [Department of Computer Science Education](https://comedu.skku.edu/comedu/index.do) at [Sungkyunkwan University](https://www.skku.edu/skku/index.do), Seoul. Before joining Sungkyunkwan University in the Fall of 2024, he was an Assistant Professor in the Division of Language & AI at Hankuk University of Foreign Studies, Seoul. He received his Ph.D. degree from Sungkyunkwan University [(Advisor: Prof. Jee-Hyong Lee)](http://iislab.skku.edu/iish/professor) in 2024 and also did his B.S. degree from Sungkyunkwan University in 2016.
 
-### Teaching
+<!-- ### Teaching
 
 **2024 Fall**
 - Natural Language Processing (SKKU)
@@ -92,4 +92,4 @@ Dr. YunSeok Choi is an Assistant Professor in the [Department of Computer Scienc
 - Natural Language Processing (SKKU)
 
 **2023 Spring**
-- Natural Language Processing (CNU)
+- Natural Language Processing (CNU) -->
