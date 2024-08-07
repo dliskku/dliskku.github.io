@@ -7,11 +7,11 @@ type: landing
 sections:
   - block: people
     content:
-      title: Meet the Team
+      title: people
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Professor
+          - Principal Investigator
           - Researcher
           - Alumni
       sort_by: Params.last_name
@@ -19,6 +19,6 @@ sections:
     design:
       show_interests: false
       show_role: true
-      show_social: true
+      show_social: false
       show_organizations: true
 ---
