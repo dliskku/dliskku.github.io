@@ -82,11 +82,14 @@ Dr. YunSeok Choi is an Assistant Professor in the Department of Computer Science
 **2024 Fall**
 - Natural Language Processing (SKKU)
 - Introduction of Cloud Computing (SKKU)
+
 **2024 Spring**
 - Introduction of Artificial Intelligence (HUFS)
 - Language and Database (HUFS)
 - English and Database (HUFS)
+
 **2023 Fall**
 - Natural Language Processing (SKKU)
+
 **2023 Spring**
 - Natural Language Processing (CNU)
