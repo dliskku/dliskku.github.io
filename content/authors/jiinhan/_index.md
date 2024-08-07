@@ -10,7 +10,7 @@ last_name: Han
 superuser: false
 
 # Role/position
-role: Master Student
+role: M.S. Student
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'gkswldls8671@gmail.com'
+email: gkswldls8671@gmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
