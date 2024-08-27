@@ -14,14 +14,14 @@ sections:
       text: |
         <br>
         
-        We focus on developing the latest NLP and machine learning technologies and applying them to solve real-world problems.
+        We focus on all aspects of NLP research, ranging from core NLP tasks to key downstream applications, and new machine learning methods.
   
   - block: markdown
     content:
       title: Notice
       subtitle:
       text: |
-        **Hiring!** We are looking for M.S./Ph.D. students and undergraduate interns who are interested in NLP research. If you are interested, please send your CV to the email (ys.choi@skku.edu).
+        ***Hiring!*** We are looking for M.S./Ph.D. students and undergraduate interns who are interested in NLP research. If you are interested, please send your CV to the email (ys.choi@skku.edu).
 
 
   # - block: collection
