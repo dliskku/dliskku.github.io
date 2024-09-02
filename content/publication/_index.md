@@ -55,9 +55,9 @@ title: Publications
   **YunSeok Choi**, Dahae Kim, and Jee-Hyong Lee  
   *ACM-RACS 2018*
 
-- **Recurrent Neural Network for Storytelling**  
-  **YunSeok Choi**, Suah Kim, and Jee-Hyong Lee  
-  *SCIS-ISIS 2016*
+# - **Recurrent Neural Network for Storytelling**  
+#   **YunSeok Choi**, Suah Kim, and Jee-Hyong Lee  
+#   *SCIS-ISIS 2016*
   
 # # Listing view
 # view: citation
