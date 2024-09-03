@@ -25,8 +25,8 @@ sections:
         country: Republic of Korea #United States
         country_code: KR
       coordinates:
-        latitude: '37.5883'
-        longitude: '126.9921'
+        latitude: '37.5886'
+        longitude: '126.9932'
       directions: Faculty Hall 2F 40228
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
