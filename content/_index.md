@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        We focus on all aspects of NLP research, ranging from core NLP tasks to key downstream applications, and new machine learning methods.
+        We focus on all aspects of NLP research, ranging from core NLP tasks to multi-modal learning, generative ai, and recommendation system. 
   
   - block: markdown
     content:
