@@ -9,9 +9,9 @@ sections:
     content:
       title: Contact
       text: |-
-            # Welcome to the Data & Language Intelligence Lab at Sungkyunkwan University!
+            ### Welcome to the Data & Language Intelligence Lab at Sungkyunkwan University!
 
-            We focus on all aspects of NLP research, ranging from core NLP tasks to key downstream applications, and new machine learning methods. Our main goal is to publish these innovative research results at top-tier conferences and journals worldwide. We are currently looking for talented and passionate students who are interested in NLP research. If you are interested in joining our research lab, please send your CV along with a brief introduction to Prof. YunSeok Choi (ys.choi@skku.edu) via email.
+            We focus on all aspects of NLP research, ranging from core NLP tasks to Multi-modal Learning, Generative AI, and Recommendation System. Our main goal is to publish these innovative research results at top-tier conferences and journals worldwide. We are currently looking for talented and passionate students who are interested in NLP research. If you are interested in joining our research lab, please send your CV along with a brief introduction to Prof. YunSeok Choi (ys.choi@skku.edu) via email.
 
       email: ys.choi@skku.edu
       # phone: 888 888 88 88
