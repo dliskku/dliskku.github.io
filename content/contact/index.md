@@ -25,7 +25,7 @@ sections:
       # coordinates:
       #   latitude: '37.5886'
       #   longitude: '126.9932'
-      # directions: Faculty Hall 2F 40228
+      directions: Faculty Hall (교수회관) 2F 40228
 
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
