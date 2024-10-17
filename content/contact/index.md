@@ -22,10 +22,11 @@ sections:
         postcode: '03063'
         country: Republic of Korea #United States
         country_code: KR
-      coordinates:
-        latitude: '37.5886'
-        longitude: '126.9932'
-      directions: Faculty Hall 2F 40228
+      # coordinates:
+      #   latitude: '37.5886'
+      #   longitude: '126.9932'
+      # directions: Faculty Hall 2F 40228
+
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
