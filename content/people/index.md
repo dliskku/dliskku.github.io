@@ -16,6 +16,19 @@ layout: archive
 **Research Interests:** Multi-modal Learning  
 **Email:** [gkswldls8671@naver.com](mailto:gkswldls8671@naver.com) -->
 
+## Professor
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="YunseokChoi.jpg" alt="YunSeok Choi" style="width: 400px; height: 400px; margin-right: 20px;"/>
+
+  <div>
+    <h3>YunSeok Choi</h3>
+    <p>Professor</p>
+    <p>Research Interests:Multi-modal Learning</p>
+    <p>Email: ys.choi@skku.edu</p>
+  </div>
+</div>
+
 
 
 ## Ph.D. Students
@@ -25,9 +38,9 @@ layout: archive
 
   <div>
     <h3>Jiin Han</h3>
-    <p><strong>M.S/Ph.D Combined</strong></p>
-    <p><strong>Research Interests:</strong> Multi-modal Learning</p>
-    <p><strong>Email:</strong> <a href="mailto:gkswldls8671@naver.com">gkswldls8671@naver.com</a></p>
+    <p>M.S/Ph.D Combined</p>
+    <p>Research Interests:Multi-modal Learning</p>
+    <p>Email: gkswldls8671@naver.com</p>
   </div>
 </div>
 
