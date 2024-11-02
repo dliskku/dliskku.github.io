@@ -19,7 +19,7 @@ layout: archive
 ## Professor
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="YunseokChoi.jpg" alt="YunSeok Choi" style="width: 400px; height: 400px; margin-right: 20px;"/>
+  <img src="YunseokChoi.jpg" alt="YunSeok Choi"/>
 
   <div>
     <h3>YunSeok Choi</h3>
@@ -34,7 +34,7 @@ layout: archive
 ## Ph.D. Students
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="JiinHan.jpg" alt="Jiin Han" style="width: 400px; height: 400px; margin-right: 20px;"/>
+  <img src="JiinHan.jpg" alt="Jiin Han" />
 
   <div>
     <h3>Jiin Han</h3>
