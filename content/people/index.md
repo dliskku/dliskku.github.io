@@ -13,4 +13,4 @@ title: People
 **Research Interests:** Multi-modal Learning  
 **Email:** [gkswldls8671@naver.com](mailto:gkswldls8671@naver.com)
 
-![Student Image](/JiinHan.jpg)
+![Student Image](JiinHan.jpg)
