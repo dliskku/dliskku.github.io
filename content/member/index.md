@@ -5,7 +5,8 @@ date: 2024-11-02
 type: landing
 ---
 
-## Professor
+
+<h2 class="section-title">Professor</h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="YunseokChoi.jpg" alt="YunSeok Choi" style="width: 150px; height: auto; margin-right: 20px;"/>
@@ -20,7 +21,7 @@ type: landing
 
 
 
-## Ph.D. Students
+<h2 class="section-title">Ph.D. Students</h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="JiinHan.jpg" alt="Jiin Han" style="width: 150px; height: auto; margin-right: 20px;"/>
