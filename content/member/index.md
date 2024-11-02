@@ -5,32 +5,11 @@ date: 2024-11-02
 type: landing
 ---
 
-<style>
-  .section-title {
-    text-align: center;
-    font-size: 24px;
-    margin-top: 20px;
-    margin-bottom: 10px;
-  }
-  .member-container {
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px;
-    justify-content: center;
-  }
-  .member-photo {
-    width: 150px;
-    height: auto;
-    margin-right: 20px;
-  }
-  .member-details {
-    line-height: 1.4;
-  }
-</style>
 
-<h2 class="section-title">Professor</h2>
+
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <h2 class="section-title">Professor</h2>
   <img src="YunseokChoi.jpg" alt="YunSeok Choi" style="width: 150px; height: auto; margin-right: 20px;"/>
 
   <div style="line-height: 1.4;">
@@ -43,9 +22,10 @@ type: landing
 
 
 
-<h2 class="section-title">Ph.D. Students</h2>
+
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <h2 class="section-title">Ph.D. Students</h2>
   <img src="JiinHan.jpg" alt="Jiin Han" style="width: 150px; height: auto; margin-right: 20px;"/>
 
   <div style="line-height: 1.4;">
