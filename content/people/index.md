@@ -1,6 +1,7 @@
 ---
 title: People
-layout: default
+type: landing
+# layout: default
 ---
 
 
