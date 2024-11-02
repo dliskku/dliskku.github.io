@@ -71,8 +71,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Principal Investigator
+# user_groups:
+#   - Principal Investigator
 ---
 ### Bio
 Dr. YunSeok Choi is an Assistant Professor in the [Department of Computer Science Education](https://comedu.skku.edu/comedu/index.do) at [Sungkyunkwan University](https://www.skku.edu/skku/index.do), Seoul. Before joining Sungkyunkwan University in the Fall of 2024, he was an Assistant Professor in the Division of Language & AI at Hankuk University of Foreign Studies, Seoul. He received his Ph.D. degree from Sungkyunkwan University [(Advisor: Prof. Jee-Hyong Lee)](http://iislab.skku.edu/iish/professor) in 2024 and also did his B.S. degree from Sungkyunkwan University in 2016.

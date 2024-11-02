@@ -10,8 +10,8 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Member
-    url: Member
+  - name: People
+    url: People
     weight: 20
   # - name: Events
   #   url: event
