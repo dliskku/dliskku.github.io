@@ -8,7 +8,7 @@ layout: default
 
 ## Ph.D. Students
 
-![Jiin Han](../authors/jiinhan/avatar.jpg)
+![Jiin Han](/content/authors/jiinhan/avatar.jpg)
 
 **Jiin Han**  
 *M.S/Ph.D Combined*  
@@ -23,4 +23,4 @@ layout: default
 **Research Interests:** Multi-modal Learning  
 **Email:** [gkswldls8671@naver.com](mailto:gkswldls8671@naver.com)
 
-![Student Image](../authors/jiinhan/avatar.jpg)
+![Student Image](/content/authors/jiinhan/avatar.jpg)
