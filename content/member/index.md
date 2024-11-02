@@ -5,6 +5,7 @@ date: 2024-11-02
 type: landing
 ---
 
+## Professor
 
 
 
@@ -22,10 +23,11 @@ type: landing
 
 
 
+## Ph.D. Students
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <h2 class="section-title">Ph.D. Students</h2>
+  <h2 class="section-title">Professor</h2>
   <img src="JiinHan.jpg" alt="Jiin Han" style="width: 150px; height: auto; margin-right: 20px;"/>
 
   <div style="line-height: 1.4;">
