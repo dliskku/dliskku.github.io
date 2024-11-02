@@ -4,8 +4,8 @@ date: 2022-10-24
 
 type: landing
 
-# sections:
-#   - block: people
+sections:
+  - block: people
 #     content:
 #       title: people
 #       # Choose which groups/teams of users to display.
