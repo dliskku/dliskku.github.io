@@ -19,9 +19,9 @@ layout: archive
 ## Professor
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="YunseokChoi.jpg" alt="YunSeok Choi"/>
+  <img src="YunseokChoi.jpg" alt="YunSeok Choi" style="width: 150px; height: auto; margin-right: 20px;"/>
 
-  <div>
+  <div style="line-height: 1.4;">
     <h3>YunSeok Choi</h3>
     <p>Professor</p>
     <p>Research Interests:Multi-modal Learning</p>
@@ -34,9 +34,9 @@ layout: archive
 ## Ph.D. Students
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="JiinHan.jpg" alt="Jiin Han" />
+  <img src="JiinHan.jpg" alt="Jiin Han" style="width: 150px; height: auto; margin-right: 20px;"/>
 
-  <div>
+  <div style="line-height: 1.4;">
     <h3>Jiin Han</h3>
     <p>M.S/Ph.D Combined</p>
     <p>Research Interests:Multi-modal Learning</p>
