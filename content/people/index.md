@@ -1,7 +1,7 @@
 ---
 title: People
 type: landing
-# layout: default
+layout: default
 ---
 
 
