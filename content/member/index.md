@@ -5,44 +5,30 @@ date: 2024-11-02
 type: landing
 ---
 
+## Professor
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="YunseokChoi.jpg" alt="YunSeok Choi" style="width: 150px; height: auto; margin-right: 20px;"/>
+
+  <div style="line-height: 1.4;">
+    <h3>YunSeok Choi</h3>
+    <p>Professor</p>
+    <p>Research Interests:Multi-modal Learning</p>
+    <p>Email: ys.choi@skku.edu</p>
+  </div>
+</div>
+
+
 
 ## Ph.D. Students
 
-<div class="member">
-  <img src="../authors/jiinhan/avatar.jpg" alt="Students" class="member-photo">
-  <h3>Jiin Han</h3>
-  <p><strong>M.S/Ph.D Combined</strong></p>
-  <p><strong>Multi-modal Learning</strong></p>
-  <p><stronggkswldls8671@naver.com</strong></p>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="JiinHan.jpg" alt="Jiin Han" style="width: 150px; height: auto; margin-right: 20px;"/>
+
+  <div style="line-height: 1.4;">
+    <h3>Jiin Han</h3>
+    <p>M.S/Ph.D Combined</p>
+    <p>Research Interests:Multi-modal Learning</p>
+    <p>Email: gkswldls8671@naver.com</p>
+  </div>
 </div>
-
-## M.S. Students
-
-# <div class="member">
-#   <img src="path/to/eun_won_kim_photo.jpg" alt="Eun Won Kim" class="member-photo">
-#   <h3>Eun Won Kim</h3>
-#   <p><strong>M.S. Student</strong></p>
-#   <p><strong>Research interests:</strong> Dialogue System</p>
-#   <p><strong>Email:</strong> eun1k@sogang.ac.kr</p>
-# </div>
-
-
-
-# sections:
-#   - block: people
-#     content:
-#       title: people
-#       # Choose which groups/teams of users to display.
-#       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-#       user_groups:
-#           - Principal Investigator
-#           - Researcher
-#           - Alumni
-#       sort_by: Params.last_name
-#       sort_ascending: true
-#     design:
-#       show_interests: false
-#       show_role: true
-#       show_social: false
-#       show_organizations: true
-# ---

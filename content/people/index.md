@@ -1,9 +1,9 @@
----
+<!-- ---
 title: People
 layout: archive
 # type: landing
 # layout: default
----
+--- -->
 
 
 
